@@ -1,3 +1,13 @@
+/*
+    Contains basic page styles for elements on
+    the page outside of the <canvas> element.
+
+    Author: Josh Archer
+    Author: <your-name>
+    File: country.css
+    Date: <the-date>
+*/
+
 html {
     background-color: beige;
 }

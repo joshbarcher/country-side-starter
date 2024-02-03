@@ -1,3 +1,14 @@
+/*
+    This script contains functions to draw 
+    elements on a canvas, showing a scene in
+    the country with day/night cycles.
+
+    Author: Josh Archer
+    Author: <your-name>
+    File: country.js
+    Date: <the-date>
+*/
+
 //the drawing context, canvas size, and day/night setting
 let ctx;
 let canvasWidth, canvasHeight;
@@ -96,3 +107,4 @@ function drawLeaf(x, y) {
 function drawScene(){
     
 }
+
